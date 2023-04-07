@@ -51,7 +51,7 @@
     </property>
     <property name="styleSheet">
      <string notr="true">color: rgb(94, 92, 100);
-background-color: rgb(26, 95, 180);</string>
+</string>
     </property>
     <property name="text">
      <string>Buscar</string>
