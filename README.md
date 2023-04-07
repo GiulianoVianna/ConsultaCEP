@@ -11,7 +11,7 @@ A aplicação é um consultor de CEP que permite aos usuários inserir um CEP br
     <li>requests</li>
 </ul>
 
-#### Biblioteca que precisam ser instalada
+#### Bibliotecas que precisam ser instaladas
 ```bash
 pip install PyQt5
 pip install requests
